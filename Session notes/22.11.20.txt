@@ -1,0 +1,9 @@
+Went to Silverymoon{
+    Bought two gems for awaken
+    Bought gem encrusted chalice for Hero's feast
+
+    Available for purchase:
+    * potion of fire resistance, multiple (350g)
+    * Neclace of fire resistance (2500g)
+}
+
