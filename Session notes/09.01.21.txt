@@ -1,0 +1,108 @@
+Prison{
+
+    Authority is: Tethryl, first reader and keep of the tomes
+
+    Sitting in seperate cells, without gear
+
+    The reader wants a written statement from all of us
+    Each gets five pages
+
+    The young nobleman{
+        From Cormyr
+        Comes to see us after a few hours
+        Put in a good word for us, we'll be released in a few days.
+        Similar creatures have been spotted on the borders of his country.
+        They have been visiting some nobles
+        Called them self shadowborn
+    }
+
+
+
+    History{
+        Some dark floating city over Anauroch the desert to thesoutheast have had som creatures like that
+        Quite recent, connection to the phaerimm invading evereska?
+    }
+
+    The release{
+        Good words from Victar and actorious
+        Released with a record and a one year ban
+        After one year, all priviliges will be restored
+    }
+}
+
+Evil eye{
+    Broke the eye inside magnificent mansion
+    Shadow emerges starts to negotiate
+    Offers treasure and knowledge (witches lair on top of spine of the world)
+    Callie charges after some discussion
+
+    Combat{
+        Uses darkness alot
+        Is undead
+        volunerable to radiant damage
+        Legendary resistances
+        Powerword kill (RIP Callie)
+    }
+
+    reviving Callie{
+        Aylin TP the party to Valental for Raise dead (Sulani)
+        We succeede! Callie is back!
+        She need to rest for some days
+        Downtime{
+            Horton checks in on her and keeps an eye out for the orc situation
+            Aylin rules
+            Farpip goes on a PR-tour and gets a hefty commission for some enchantment
+
+        }
+        
+
+    }
+}
+
+Shadow plotline{
+    See [Evil eye]
+    Everart identified the peak as widow peak
+    Cursed, noone goes there
+    Everhart wants to purge the place
+    Shades{
+            Gate to the city of shade(Thultanthar)
+            Infiltrating the Dales, negotiating in Cormyr
+        }
+}
+Getting Jeffrey back{
+    Teleport to Bryn Shander
+    Contact Everhart, ready in three-four days
+    Plan is to use the Gate spell to summon Ames and threaten to use his true name unless he gives back Jeffreys soul and goes away forever
+
+    To the old temple{
+        East of East Haven
+        Everhart cast Gate, summoning Ames
+
+        Ames do not have Jeffreys soul anymore, he has been sold and tortured for a long time
+        He suggests to give Jeffrey back (in whatever shape he's in)
+        Then he'll erase his True Name from our memories
+
+        After negotiation he will allow one person to remember his Name
+        Cue hour-long discussion about who owns Jeffreys soul
+
+        Final contract{
+            "You bring us Jeffreys soul physically, immediately ensure Jeffrey ownership of his soul, and never directly or indirectly work against us (including Jeffrey) or anyone we know, knew, or will know in the future. 
+             The True Name, and only the True Name, will be erased from all but one, and that on person will not willfully exploit your true name again. The person who keeps the name also promise not to willfully share your true name with others. Disputed cases should be ruled favourably to us."
+
+             You might go around it by letting someone know that a geas or similar might force you to reveal the Name
+
+
+        }
+    }
+
+    
+People{
+    Elena Moonwhisperer{
+        Immensely powerful character who found Ames' True Name for us
+    }
+    Ames{
+        Devil who made a contract with Jeffrey for his soul
+    }
+}
+
+}
