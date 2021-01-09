@@ -8,75 +8,75 @@ Went to Silverymoon{
 }
 
 Candlekeep library{
-Statue to god of knowledge (book in one hand, something else in other)
-Plaque with house rules
-* No arms and armor
+    Statue to god of knowledge (book in one hand, something else in other)
+    Plaque with house rules
+    * No arms and armor
 
-Research {
-    Farpip{
-        White dragons are feril chromatic dragons
-        Weakness:
-            Sligthly weaker physically
-            Not terribly intelligent
-            Not strong in magic
-    }
+        Research {
+            Farpip{
+                White dragons are feril chromatic dragons
+                Weakness:
+                    Sligthly weaker physically
+                    Not terribly intelligent
+                    Not strong in magic
+            }
 
-    Callie{
-        How to use True Names (tm)
-        Legendary Saint Orbain, cleric of illuvatur, book:
-            The uttering of a True Name makes a creature obligated to follow your command by divine law
-            Last for eternity
-            Should not overuse
-    }
+            Callie{
+                How to use True Names (tm)
+                Legendary Saint Orbain, cleric of illuvatur, book:
+                    The uttering of a True Name makes a creature obligated to follow your command by divine law
+                    Last for eternity
+                    Should not overuse
+            }
 
-    Kuredar{
-        Herbal remedy to slow down posession
-        Recasting wards may reseal
-    }
+            Kuredar{
+                Herbal remedy to slow down posession
+                Recasting wards may reseal
+            }
 
-    Horton{
-        City of Brass:
-        "Study of inner planes vol 3"
-        Centre of ifrit nobility
-        Flying (safer)
-        Lead by grand sultan
-        Firendly/non hostile
-        Temperature in the city is coole than rest of plane
-        Numerous markets
-        Fiends are not allowed
+            Horton{
+                City of Brass:
+                "Study of inner planes vol 3"
+                Centre of ifrit nobility
+                Flying (safer)
+                Lead by grand sultan
+                Firendly/non hostile
+                Temperature in the city is coole than rest of plane
+                Numerous markets
+                Fiends are not allowed
 
-        Torn page[
-            Not from this book
-            Drawings and runes
-            very strange language, in ignan
-            Written by some nobleman
-            Construction details for teleportation device
-            Need callie and Kuredar
-        ]
-    }
-    
-}
+                Torn page[
+                    Not from this book
+                    Drawings and runes
+                    very strange language, in ignan
+                    Written by some nobleman
+                    Construction details for teleportation device
+                    Need callie and Kuredar
+                ]
+            }
+            
+        }
 
-Kuredars posession{
-    He is possessed!
-    Should not be left alone
-    Mutters in old eastern language
-    Should I tell the others?
-    Potion clears his mind for a brief time, possible side effects?
+        Kuredars posession{
+            He is possessed!
+            Should not be left alone
+            Mutters in old eastern language
+            Should I tell the others?
+            Potion clears his mind for a brief time, possible side effects?
 
-    The book{
-        By Jorn about Planar travel
-    }
+            The book{
+                By Jorn about Planar travel
+            }
 
-    A shadow creature is hovering behind me in library after possessed kuredar picked up The Book (from a Netherese speaking person)
-}
+            A shadow creature is hovering behind me in library after possessed kuredar picked up The Book (from a Netherese speaking person)
+        }
 
-Fighting the Shadow{
-    It's leaking out of Kuredars eye!
-    Three other shadow creatures appear as well
-    Finished the fight, cast in cells in basement
-    probably banned for life
-}
+        Fighting the Shadow{
+            It's leaking out of Kuredars eye!
+            Three other shadow creatures appear as well
+            Finished the fight, cast in cells in basement
+            probably banned for life
+        }
 
-Learned a new potion for Kuredar
+    Learned a new potion for Kuredar
 }
